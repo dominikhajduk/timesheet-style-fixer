@@ -1,5 +1,5 @@
 /* add > work time */
-.worklog-calendar {
+#ProjectPanels .worklog-calendar {
     position: fixed;
     bottom: 10px;
     width: 94%;
@@ -7,19 +7,20 @@
     border-top: 10px solid white;
 }
 
-.projects-lists-panel {
+#ProjectPanels .projects-lists-panel {
     margin-bottom: 100px;
 }
 
 /* work time */
-.mini-calendar-container {
+#worklogsList .mini-calendar-container {
     position: fixed;
     bottom: 10px;
     width: 94%;
     background-color: white;
     border-top: 10px solid white;
+    margin-bottom: 0px;
 }
 
-#projects {
+#worklogsList #projects {
     margin-bottom: 100px;
 }
