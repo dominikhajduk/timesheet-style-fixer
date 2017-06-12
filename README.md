@@ -1,5 +1,5 @@
 # timesheet-style-fixer
-CSS style fixer for company timesheet. It fix summary table for "add work time" and "work time" sections.
+CSS style fixer for company timesheet. It make summary tables sticky to browser window for "add work time" and "work time" sections.
 
 ### How to apply in Safari?
 
