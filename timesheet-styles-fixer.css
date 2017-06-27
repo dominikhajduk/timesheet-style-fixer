@@ -19,6 +19,7 @@
     background-color: white;
     border-top: 10px solid white;
     margin-bottom: 0px;
+    z-index: 4;
 }
 
 #worklogsList #projects {
