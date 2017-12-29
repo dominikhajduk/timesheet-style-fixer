@@ -15,4 +15,9 @@ CSS style fixer for company timesheet. It makes summary tables sticky to the bro
 - Download [timesheet-styles-fixer.css](https://github.com/dominikhajduk/timesheet-style-fixer/blob/master/timesheet-styles-fixer.css)
 - set CSS in plugin
 
+### How to apply in Firefox?
+- Install plugin such us [Stylish](https://addons.mozilla.org/pl/firefox/addon/stylish/)
+- Download [timesheet-styles-fixer.css](https://github.com/dominikhajduk/timesheet-style-fixer/blob/master/timesheet-styles-fixer.css)
+- set CSS in plugin
+
 Enjoy!
