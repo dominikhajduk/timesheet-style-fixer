@@ -14,7 +14,7 @@
 /* work time */
 #worklogsList .mini-calendar-container {
     position: fixed;
-    bottom: 10px;
+    bottom: -20px;
     width: 94%;
     background-color: white;
     border-top: 10px solid white;
@@ -23,5 +23,5 @@
 }
 
 #worklogsList #projects {
-    margin-bottom: 100px;
+    margin-bottom: 85px;
 }
