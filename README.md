@@ -1,4 +1,4 @@
-# Timesheet style fixer
+# Timesheet CSS styles fixer
 CSS style fixer for company timesheet. It makes summary tables sticky to the browser window for "add work time" and "work time" sections.
 
 ![Timesheet style fixer](https://raw.githubusercontent.com/dominikhajduk/timesheet-style-fixer/master/timesheet.jpg "Summary table")
