@@ -25,3 +25,7 @@
 #worklogsList #projects {
     margin-bottom: 85px;
 }
+
+#mainNavbar > div {
+	position: fixed;
+}
