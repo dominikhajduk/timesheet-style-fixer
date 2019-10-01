@@ -26,6 +26,6 @@
     margin-bottom: 85px;
 }
 
-#mainNavbar > div {
-	position: fixed;
+#mainNavbar {
+	position: fixed !important;
 }
