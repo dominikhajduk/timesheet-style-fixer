@@ -25,3 +25,11 @@
 #worklogsList #projects {
     margin-bottom: 85px;
 }
+
+#mainNavbar {
+	position: fixed !important;
+}
+
+body > div.container-fluid > div {
+    margin-top: 44px
+}
