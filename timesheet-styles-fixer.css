@@ -27,9 +27,18 @@
 }
 
 #mainNavbar {
-	position: fixed !important;
+    position: fixed !important;
 }
 
 body > div.container-fluid > div {
     margin-top: 44px
+}
+
+.cookie-main {
+    background-color: white !important;
+    color: black !important;
+}
+
+.cookie-main .link {
+    color: black !important;
 }
