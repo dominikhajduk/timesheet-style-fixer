@@ -1,5 +1,5 @@
 # Timesheet CSS styles fixer
-CSS style fixer for company timesheet. It makes summary tables stick to browser window for "Add working time" and "Working time" sections. This fixer also makes the top menu stick to the browser window.
+CSS style fixer for company timesheet. It makes the summary tables for the "Add working time" and "Working time" sections stick to the browser window. This fixer also makes the top menu stick to the browser window.
 
 ![Timesheet style fixer](https://raw.githubusercontent.com/dominikhajduk/timesheet-style-fixer/master/timesheet.jpg "Summary table")
 
