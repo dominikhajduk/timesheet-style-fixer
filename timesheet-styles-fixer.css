@@ -2,9 +2,10 @@
 #ProjectPanels .worklog-calendar {
     position: fixed;
     bottom: 10px;
-    width: 94%;
+    width: 100%;
     background-color: white;
     border-top: 10px solid white;
+    padding-right: 95px;
 }
 
 #ProjectPanels .projects-lists-panel {
@@ -15,7 +16,7 @@
 #worklogsList .mini-calendar-container {
     position: fixed;
     bottom: -20px;
-    width: 94%;
+    width: 94.5%;
     background-color: white;
     border-top: 10px solid white;
     margin-bottom: 0px;
