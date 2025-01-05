@@ -1,3 +1,5 @@
+![This repo is not maintained any longer](https://img.shields.io/maintenance/no/2025.svg)
+
 # Timesheet CSS styles fixer
 CSS style fixer for company timesheet. It makes the summary tables for the "Add working time" and "Working time" sections stick to the browser window. This fixer also makes the top menu stick to the browser window.
 
